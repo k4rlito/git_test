@@ -1,3 +1,3 @@
 another seemingly
 pointless exercise
-to help me start learing git 
+to help me start learning git 
